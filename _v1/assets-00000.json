@@ -1,0 +1,39 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Fencer - Set 01aff",
+      "id_type": "COLLECTION",
+      "files": [
+        "assets/Heroes/Outlanders/Virtuosa/Fencer_Set01aff.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "assets/Heroes/Outlanders/Virtuosa/Fencer_Set01aff_thumbnails/Collection/fencer-set-01aff.webp",
+        "hash": "SHA256:086e3a8b98b05d23362f066c2b991c35f0b2003ff1d9dc7f6d14163bb7208209"
+      },
+      "meta": {
+        "tags": [
+          "For Honor",
+          "Fencer",
+          "Virtuosa",
+          "Outlanders",
+          "Set 01aff"
+        ],
+        "author": "For Honor Asset Library",
+        "description": "Fencer set01aff: native helm, chest, arms and skeleton. Packed textures and For Honor materials."
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "assets/Heroes/Outlanders/Virtuosa/Fencer_Set01aff.blend",
+      "size_in_bytes": 5096216,
+      "hash": "SHA256:a34e33de5dfd43ab5ce3824109b409199f06a0beafc888858f483d5cc1d355d1",
+      "blender_version": "5.2.44"
+    }
+  ]
+}

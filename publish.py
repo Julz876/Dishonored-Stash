@@ -50,7 +50,7 @@ def main():
     # Preserve local and remote commits; stop for review if a conflict occurs.
     run(['git', 'merge', '--no-edit', '@{upstream}'], 'Integrating GitHub changes')
     run(['git', 'push'], 'Pushing to GitHub')
-    print('\n[✓] Remote asset library published successfully!')
+    print('\n[OK] Remote asset library published successfully!')
 
 if __name__ == '__main__':
     try:

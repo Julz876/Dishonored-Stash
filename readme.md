@@ -1,10 +1,10 @@
 ## 📥 How to Install in Blender (For Users)
 
-1. In Blender 5.2+, go to **Edit → Preferences → Asset Libraries**.
+1. In Blender 5.2+, go to **Edit > Preferences > Asset Libraries**.
 2. Click the **`+`** icon at the top right of the table and select **Add Remote Asset Library**.
-3. Enter your library details:
-   * **Name:** `<Your Library Name>`
-   * **URL:** `https://<YOUR-USERNAME>.github.io/<YOUR-REPO-NAME>/`
+3. Enter library details:
+   * **Name:** `<Library Name>`
+   * **URL:** `https://julz876.github.io/Dishonored-Stash/`
 4. Open the **Asset Browser** editor window (or press `Shift + F1`) and select your library from the top-left dropdown.
 
 ---

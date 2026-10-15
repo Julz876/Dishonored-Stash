@@ -1,7 +1,21 @@
 {
-  "asset_count": 1,
-  "file_count": 1,
+  "asset_count": 2,
+  "file_count": 2,
   "assets": [
+    {
+      "name": "hero__outlanders__h031medjay__set01aam",
+      "id_type": "COLLECTION",
+      "files": [
+        "assets/Heroes/Outlanders/Medjay/Medjay_set01aam.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "assets/Heroes/Outlanders/Medjay/Medjay_set01aam_thumbnails/Collection/hero__outlanders__h031medjay__set01aam.webp",
+        "hash": "SHA256:7d9cce3cef61d27764480094c4e1d830956ca68325902bfcf241001326da3c55"
+      }
+    },
     {
       "name": "Fencer - Set 01aff",
       "id_type": "COLLECTION",
@@ -29,6 +43,12 @@
     }
   ],
   "files": [
+    {
+      "path": "assets/Heroes/Outlanders/Medjay/Medjay_set01aam.blend",
+      "size_in_bytes": 44942053,
+      "hash": "SHA256:e43d3cd2bb16585b5627f479b2a7110f48de2a6a6ec5077fe7724d7f32077898",
+      "blender_version": "5.2.44"
+    },
     {
       "path": "assets/Heroes/Outlanders/Virtuosa/Virtuosa_Set01aff.blend",
       "size_in_bytes": 5159465,

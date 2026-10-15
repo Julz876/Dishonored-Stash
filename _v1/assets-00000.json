@@ -13,7 +13,7 @@
       },
       "thumbnail": {
         "url": "assets/Heroes/Outlanders/Virtuosa/Fencer_Set01aff_thumbnails/Collection/fencer-set-01aff.webp",
-        "hash": "SHA256:086e3a8b98b05d23362f066c2b991c35f0b2003ff1d9dc7f6d14163bb7208209"
+        "hash": "SHA256:fbd944e2ea6f5359e3a1abe50effa34f250154c59bed4217d69c52d20c4bdcc2"
       },
       "meta": {
         "tags": [
@@ -31,8 +31,8 @@
   "files": [
     {
       "path": "assets/Heroes/Outlanders/Virtuosa/Fencer_Set01aff.blend",
-      "size_in_bytes": 5096216,
-      "hash": "SHA256:a34e33de5dfd43ab5ce3824109b409199f06a0beafc888858f483d5cc1d355d1",
+      "size_in_bytes": 5159465,
+      "hash": "SHA256:9399b734e06e5fc8c643a575a0e06e1a2f6d8d49fb43341c1453d70f2a2c2443",
       "blender_version": "5.2.44"
     }
   ]

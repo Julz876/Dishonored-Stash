@@ -6,13 +6,13 @@
       "name": "Fencer - Set 01aff",
       "id_type": "COLLECTION",
       "files": [
-        "assets/Heroes/Outlanders/Virtuosa/Fencer_Set01aff.blend"
+        "assets/Heroes/Outlanders/Virtuosa/Virtuosa_Set01aff.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "assets/Heroes/Outlanders/Virtuosa/Fencer_Set01aff_thumbnails/Collection/fencer-set-01aff.webp",
+        "url": "assets/Heroes/Outlanders/Virtuosa/Virtuosa_Set01aff_thumbnails/Collection/fencer-set-01aff.webp",
         "hash": "SHA256:fbd944e2ea6f5359e3a1abe50effa34f250154c59bed4217d69c52d20c4bdcc2"
       },
       "meta": {
@@ -30,7 +30,7 @@
   ],
   "files": [
     {
-      "path": "assets/Heroes/Outlanders/Virtuosa/Fencer_Set01aff.blend",
+      "path": "assets/Heroes/Outlanders/Virtuosa/Virtuosa_Set01aff.blend",
       "size_in_bytes": 5159465,
       "hash": "SHA256:9399b734e06e5fc8c643a575a0e06e1a2f6d8d49fb43341c1453d70f2a2c2443",
       "blender_version": "5.2.44"

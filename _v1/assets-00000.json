@@ -6,16 +6,17 @@
       "name": "set01abf Arms",
       "id_type": "COLLECTION",
       "files": [
-        "assets/Heroes/Outlanders/Virtuosa/set01abf_arms.blend"
+        "assets/Heros/Outlanders/Virtuosa/set01abf_arms.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "assets/Heroes/Outlanders/Virtuosa/set01abf_arms_thumbnails/Collection/set01abf-arms.webp",
+        "url": "assets/Heros/Outlanders/Virtuosa/set01abf_arms_thumbnails/Collection/set01abf-arms.webp",
         "hash": "SHA256:ff0a330611fbac8757e2dea292826897d418d1942ca6be8af839d7645a730666"
       },
       "meta": {
+        "catalog_id": "42bfd3e3-f73d-46b0-94e1-64df800607d2",
         "tags": [
           "For Honor"
         ],
@@ -26,9 +27,9 @@
   ],
   "files": [
     {
-      "path": "assets/Heroes/Outlanders/Virtuosa/set01abf_arms.blend",
-      "size_in_bytes": 10489569,
-      "hash": "SHA256:15f56ee8035ce6d5e90496adc6b918f52e8be069b2a1d259dcd6ae0482016c57",
+      "path": "assets/Heros/Outlanders/Virtuosa/set01abf_arms.blend",
+      "size_in_bytes": 10499170,
+      "hash": "SHA256:667859b08a4d1bd64159c9cd8e31288b31ea8edd33fe1618dcca3b1031a492c9",
       "blender_version": "5.2.44"
     }
   ]

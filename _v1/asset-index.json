@@ -1,13 +1,35 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 10489569,
+  "asset_size_bytes": 10499170,
   "asset_count": 1,
   "file_count": 1,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:303192bc21c77ebe2f127f17f9573cc6b1a684ba14dae993aea1131a12855b54"
+      "hash": "SHA256:f546c932c111d117ea84dc4d5b886826137aa0384c5f915ee0022638469f12c8"
     }
   ],
-  "catalogs": []
+  "catalogs": [
+    {
+      "path": "Heros",
+      "uuids": [
+        "b2e20c9d-5001-485f-be26-d1a243c52d90"
+      ],
+      "simple_name": "Heros"
+    },
+    {
+      "path": "Heros/Outlanders",
+      "uuids": [
+        "0b9015ee-0926-4dfb-a33b-5f5d16f49573"
+      ],
+      "simple_name": "Heros-Outlanders"
+    },
+    {
+      "path": "Heros/Outlanders/Virtuosa",
+      "uuids": [
+        "42bfd3e3-f73d-46b0-94e1-64df800607d2"
+      ],
+      "simple_name": "Heros-Outlanders-Virtuosa"
+    }
+  ]
 }

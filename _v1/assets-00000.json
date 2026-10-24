@@ -13,7 +13,7 @@
       },
       "thumbnail": {
         "url": "assets/Heroes/Outlanders/Virtuosa/set01abf_arms_thumbnails/Collection/set01abf-arms.webp",
-        "hash": "SHA256:288b2a431246d60bdea684355aed881f69aabcb8ecb205d4b6ddd76ade422a7b"
+        "hash": "SHA256:ff0a330611fbac8757e2dea292826897d418d1942ca6be8af839d7645a730666"
       },
       "meta": {
         "tags": [
@@ -27,8 +27,8 @@
   "files": [
     {
       "path": "assets/Heroes/Outlanders/Virtuosa/set01abf_arms.blend",
-      "size_in_bytes": 10490809,
-      "hash": "SHA256:a6f548259ec9fde7827af52a012ead9abcfe2136dd5496a0c30ff6343a8b3296",
+      "size_in_bytes": 10489569,
+      "hash": "SHA256:15f56ee8035ce6d5e90496adc6b918f52e8be069b2a1d259dcd6ae0482016c57",
       "blender_version": "5.2.44"
     }
   ]

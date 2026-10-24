@@ -2,13 +2,12 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:9384857cc717965e0f3e203fbf7cea2f6f98148d82b6f98c57422cb1d6a4300d"
+      "hash": "SHA256:0b0852a8e03e5b4cd67c9501a65b70dd45cef71ae6445a9d2dd941bf038dc274"
     }
   },
-  "name": "Your Asset Library",
+  "name": "Dishonorable Asset Library",
   "contact": {
-    "name": "Your Name",
-    "url": "https://example.org/",
-    "email": "example@example.org"
+    "name": "KingJulz",
+    "url": "https://julz876.github.io/Dishonored-Stash/"
   }
 }

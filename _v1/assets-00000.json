@@ -1,58 +1,34 @@
 {
-  "asset_count": 2,
-  "file_count": 2,
+  "asset_count": 1,
+  "file_count": 1,
   "assets": [
     {
-      "name": "hero__outlanders__h031medjay__set01aam",
+      "name": "set01abf Arms",
       "id_type": "COLLECTION",
       "files": [
-        "assets/Heroes/Outlanders/Medjay/Medjay_set01aam.blend"
+        "assets/Heroes/Outlanders/Virtuosa/set01abf_arms.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "assets/Heroes/Outlanders/Medjay/Medjay_set01aam_thumbnails/Collection/hero__outlanders__h031medjay__set01aam.webp",
-        "hash": "SHA256:7d9cce3cef61d27764480094c4e1d830956ca68325902bfcf241001326da3c55"
-      }
-    },
-    {
-      "name": "Fencer - Set 01aff",
-      "id_type": "COLLECTION",
-      "files": [
-        "assets/Heroes/Outlanders/Virtuosa/Virtuosa_Set01aff.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "assets/Heroes/Outlanders/Virtuosa/Virtuosa_Set01aff_thumbnails/Collection/fencer-set-01aff.webp",
-        "hash": "SHA256:fbd944e2ea6f5359e3a1abe50effa34f250154c59bed4217d69c52d20c4bdcc2"
+        "url": "assets/Heroes/Outlanders/Virtuosa/set01abf_arms_thumbnails/Collection/set01abf-arms.webp",
+        "hash": "SHA256:288b2a431246d60bdea684355aed881f69aabcb8ecb205d4b6ddd76ade422a7b"
       },
       "meta": {
         "tags": [
-          "For Honor",
-          "Fencer",
-          "Virtuosa",
-          "Outlanders",
-          "Set 01aff"
+          "For Honor"
         ],
         "author": "For Honor Asset Library",
-        "description": "Fencer set01aff: native helm, chest, arms and skeleton. Packed textures and For Honor materials."
+        "description": "set01abf Arms: native rig, packed textures, material setup applied, Eevee preview."
       }
     }
   ],
   "files": [
     {
-      "path": "assets/Heroes/Outlanders/Medjay/Medjay_set01aam.blend",
-      "size_in_bytes": 44942053,
-      "hash": "SHA256:e43d3cd2bb16585b5627f479b2a7110f48de2a6a6ec5077fe7724d7f32077898",
-      "blender_version": "5.2.44"
-    },
-    {
-      "path": "assets/Heroes/Outlanders/Virtuosa/Virtuosa_Set01aff.blend",
-      "size_in_bytes": 5159465,
-      "hash": "SHA256:9399b734e06e5fc8c643a575a0e06e1a2f6d8d49fb43341c1453d70f2a2c2443",
+      "path": "assets/Heroes/Outlanders/Virtuosa/set01abf_arms.blend",
+      "size_in_bytes": 10490809,
+      "hash": "SHA256:a6f548259ec9fde7827af52a012ead9abcfe2136dd5496a0c30ff6343a8b3296",
       "blender_version": "5.2.44"
     }
   ]

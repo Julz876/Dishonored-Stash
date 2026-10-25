@@ -1,6 +1,6 @@
 {
-  "asset_count": 1,
-  "file_count": 1,
+  "asset_count": 3,
+  "file_count": 3,
   "assets": [
     {
       "name": "set01abf Arms",
@@ -23,6 +23,50 @@
         "author": "For Honor Asset Library",
         "description": "set01abf Arms: native rig, packed textures, material setup applied, Eevee preview."
       }
+    },
+    {
+      "name": "set01abf Chest",
+      "id_type": "COLLECTION",
+      "files": [
+        "assets/Heros/Outlanders/Virtuosa/set01abf_chest.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "assets/Heros/Outlanders/Virtuosa/set01abf_chest_thumbnails/Collection/set01abf-chest.webp",
+        "hash": "SHA256:e7bfc13bbdb99be458b30904c3ada021b70810cf39f35361392c04092c16cccf"
+      },
+      "meta": {
+        "catalog_id": "42bfd3e3-f73d-46b0-94e1-64df800607d2",
+        "tags": [
+          "For Honor"
+        ],
+        "author": "For Honor Asset Library",
+        "description": "set01abf Chest: native rig, packed textures, material setup applied, Eevee preview."
+      }
+    },
+    {
+      "name": "set01abf Helm",
+      "id_type": "COLLECTION",
+      "files": [
+        "assets/Heros/Outlanders/Virtuosa/set01abf_helm.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "assets/Heros/Outlanders/Virtuosa/set01abf_helm_thumbnails/Collection/set01abf-helm.webp",
+        "hash": "SHA256:ff2193f1085fe568f379241ed56319878ce6aba57ddc95a4ae709302aed333e1"
+      },
+      "meta": {
+        "catalog_id": "42bfd3e3-f73d-46b0-94e1-64df800607d2",
+        "tags": [
+          "For Honor"
+        ],
+        "author": "For Honor Asset Library",
+        "description": "set01abf Helm: native rig, packed textures, material setup applied, Eevee preview."
+      }
     }
   ],
   "files": [
@@ -30,6 +74,18 @@
       "path": "assets/Heros/Outlanders/Virtuosa/set01abf_arms.blend",
       "size_in_bytes": 10499170,
       "hash": "SHA256:667859b08a4d1bd64159c9cd8e31288b31ea8edd33fe1618dcca3b1031a492c9",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "assets/Heros/Outlanders/Virtuosa/set01abf_chest.blend",
+      "size_in_bytes": 21522743,
+      "hash": "SHA256:c81667876fda24e8a32c8be3d8027d5399180ee6a637636c34b08aae72665724",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "assets/Heros/Outlanders/Virtuosa/set01abf_helm.blend",
+      "size_in_bytes": 12108209,
+      "hash": "SHA256:6035e2dc002fe66c0a5ceaa641b84da05c623e9178b5d6f7f85ed4e3fa539356",
       "blender_version": "5.2.44"
     }
   ]

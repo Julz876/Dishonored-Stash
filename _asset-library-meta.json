@@ -2,7 +2,7 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:2d818760adef8feedd458ca23a41df81a4c638e47abb4a6fa2ecb0273b9a992d"
+      "hash": "SHA256:3bf55f5a5765a89e4d526c9b559e3231499b97a790ca7d0201fd56ce34a382d9"
     }
   },
   "name": "Dishonorable Asset Library",
